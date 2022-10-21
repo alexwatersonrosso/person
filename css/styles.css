@@ -49,6 +49,10 @@ a:hover {
   padding-top: 100px;
 }
 
+.alex-image {
+  border-radius: 100%;
+}
+
 .middle-container {
   background-color: #D5D8B5;
 }
